@@ -1,0 +1,17 @@
+* {
+  text-align: center;
+}
+
+form input {
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+#cancel-btn {
+  background-color: rgb(255, 0, 0);
+  border: none;
+  /* color: rgb(255, 0, 0); */
+}
